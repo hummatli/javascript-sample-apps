@@ -1,3 +1,3 @@
 # javascript-sample-apps
 
-Sample codes tryed when I learned JS
+Sample codes tried when I learned JS
